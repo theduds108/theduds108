@@ -6,9 +6,9 @@ Atuo com PHP, C#, Python, Flutter e Swift, além de suporte TOTVS Protheus. Inte
 
 ### Stack
 
-![Stack](https://skillicons.dev/icons?i=php,cs,python,flutter,swift,flask,sqlite)
+![Stack](https://skillicons.dev/icons?i=html,css,js,php,cs,python,androidstudio,flutter,swift,flask,mysql,sqlite)
 
-Também atuo com suporte TOTVS Protheus.
+Também trabalho com MariaDB, HeidiSQL e suporte TOTVS Protheus.
 
 ### Projetos
 
