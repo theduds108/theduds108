@@ -13,7 +13,7 @@ Também trabalho com MariaDB, HeidiSQL e suporte TOTVS Protheus.
 ### Projetos
 
 **[IlumacGame](https://github.com/theduds108/IlumacGame)**
-Quiz interativo em Flask para totem touch, 100% offline. Instalador de Python embarcado, backups automáticos e painel administrativo com exportação de leads.
+Totem de quiz interativo para a Ilumac Fire Show 2026, adaptando para o físico o IlumacGame criado para o Instagram da marca. 100% offline, com instalador de Python embarcado, backups automáticos e painel administrativo com exportação de leads.
 
 **[Dashboard de Análise de Salários](https://github.com/theduds108/Dashboard-de-An-lise-de-Sal-rios)**
 Dashboard em Streamlit e Plotly para análise de salários na área de dados, com filtros dinâmicos e KPIs.
