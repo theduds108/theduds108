@@ -1,16 +1,18 @@
-## Hi there 👋
+# Oi, eu sou a Eduarda 👋
 
-<!--
-**theduds108/theduds108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedora Júnior | Web, Mobile & Back-end | Estudante de Ciência da Computação
 
-Here are some ideas to get you started:
+Trabalho com **PHP, C#, Python, Flutter e Swift**, com experiência também em suporte **TOTVS Protheus**. Gosto de construir soluções completas — do back-end à interface — e de explorar dados para tirar insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projetos em destaque
+
+- **[IlumacGame](https://github.com/theduds108/IlumacGame)** — Quiz educacional interativo em Flask para totem touch, 100% offline, com instalador de Python embarcado, backups automáticos e painel administrativo com exportação de leads.
+- **[Dashboard de Análise de Salários](https://github.com/theduds108/Dashboard-de-An-lise-de-Sal-rios)** — Dashboard em Streamlit e Plotly para explorar salários na área de dados, com filtros dinâmicos e KPIs.
+
+## 🛠️ Stack
+
+`PHP` `C#` `Python` `Flutter` `Swift` `Flask` `Streamlit` `SQLite` `TOTVS Protheus`
+
+## 📫 Contato
+
+[LinkedIn](https://www.linkedin.com/in/eduarda-ferreira-corrêa)
