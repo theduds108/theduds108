@@ -1,6 +1,6 @@
 # Eduarda Corrêa
 
-Desenvolvedora Júnior — Web, Mobile & Back-end. Estudante de Ciência da Computação.
+Desenvolvedora Júnior na Ilumac — Web, Mobile & Back-end. Estudante de Ciência da Computação.
 
 Atuo com PHP, C#, Python, Flutter e Swift, além de suporte TOTVS Protheus. Interesse em construir soluções de ponta a ponta, do back-end à interface, e em análise de dados.
 
