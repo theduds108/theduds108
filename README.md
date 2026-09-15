@@ -6,14 +6,9 @@ Atuo com PHP, C#, Python, Flutter e Swift, além de suporte TOTVS Protheus. Inte
 
 ### Stack
 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![TOTVS Protheus](https://img.shields.io/badge/-TOTVS%20Protheus-1450A3?style=flat-square)
+![Stack](https://skillicons.dev/icons?i=php,cs,python,flutter,swift,flask,sqlite)
+
+Também atuo com suporte TOTVS Protheus.
 
 ### Projetos
 
