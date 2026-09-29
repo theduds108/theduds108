@@ -6,14 +6,19 @@ Atuo com PHP, C#, Python, Flutter e Swift, além de suporte TOTVS Protheus. Inte
 
 ### Stack
 
-![Stack](https://skillicons.dev/icons?i=html,css,js,php,cs,python,androidstudio,flutter,swift,flask,mysql,sqlite)
+![Stack](https://skillicons.dev/icons?i=html,css,js,php,cs,dotnet,python,androidstudio,flutter,swift,flask,mysql,sqlite)
 
 Também trabalho com MariaDB, HeidiSQL e suporte TOTVS Protheus.
 
 ### Projetos
 
-**[Dashboard de Análise de Salários](https://github.com/theduds108/Dashboard-de-An-lise-de-Sal-rios)**
-Dashboard em Streamlit e Plotly para análise de salários na área de dados, com filtros dinâmicos e KPIs.
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [Mini ERP API](https://github.com/theduds108/mini-erp-api) | API REST de integração com ERP: pedidos de venda com validação de estoque, crédito e cliente bloqueado, autenticação por chave e erros no padrão RFC 7807 | C#, ASP.NET Core 8 |
+| [Orçamento Fácil](https://github.com/theduds108/orcamento-facil) | Sistema web de emissão de orçamentos com histórico, indicadores e documento pronto para impressão/PDF | PHP 8, SQLite |
+| [Categorizador de Extrato](https://github.com/theduds108/categorizador-extrato) | Painel que categoriza transações de extratos bancários e mostra a evolução dos gastos, com testes automatizados | Python, Streamlit, Pandas |
+| [Labirinto · Visualizador de Busca](https://github.com/theduds108/labirinto-busca) | Jogo de labirinto com visualização dos algoritmos BFS, DFS e A* — [jogar online](https://theduds108.github.io/labirinto-busca/) | JavaScript, Canvas |
+| [Dashboard de Análise de Salários](https://github.com/theduds108/Dashboard-de-An-lise-de-Sal-rios) | Dashboard para análise de salários na área de dados, com filtros dinâmicos e KPIs | Python, Streamlit, Plotly |
 
 ### Contato
 
