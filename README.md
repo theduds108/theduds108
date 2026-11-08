@@ -10,10 +10,17 @@ Atuo com PHP, C#, Python, Flutter e Swift, além de suporte TOTVS Protheus. Inte
 
 Também trabalho com MariaDB, HeidiSQL e suporte TOTVS Protheus.
 
+### Em destaque
+
+**[Fólium](https://github.com/theduds108/Folium)**: vitrine de portfólios que conecta universitários da UNISAGRADO a negócios da região que procuram freelas, projetos e estágios. Projeto de empreendedorismo em que sou responsável pela plataforma: portfólio do aluno, busca de talentos, mural de vagas, planos, guia de preços e app instalável (PWA). [Acessar o site](https://folium-phi.vercel.app)
+
+`Next.js` `React` `TypeScript` `Supabase` `PostgreSQL` `Vercel` `PWA`
+
 ### Projetos
 
 | Projeto | Descrição | Stack |
 |---|---|---|
+| [Fólium](https://github.com/theduds108/Folium) | Plataforma de portfólios universitários com busca de talentos, mural de vagas, planos e login seguro com RLS — [acessar](https://folium-phi.vercel.app) | Next.js, TypeScript, Supabase |
 | [Mini ERP API](https://github.com/theduds108/mini-erp-api) | API REST de integração com ERP: pedidos de venda com validação de estoque, crédito e cliente bloqueado, autenticação por chave e erros no padrão RFC 7807 | C#, ASP.NET Core 8 |
 | [Orçamento Fácil](https://github.com/theduds108/orcamento-facil) | Sistema web de emissão de orçamentos com histórico, indicadores e documento pronto para impressão/PDF | PHP 8, SQLite |
 | [Categorizador de Extrato](https://github.com/theduds108/categorizador-extrato) | Painel que categoriza transações de extratos bancários e mostra a evolução dos gastos, com testes automatizados | Python, Streamlit, Pandas |
